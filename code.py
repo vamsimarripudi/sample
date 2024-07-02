@@ -1,1 +1,3 @@
-print("Hello World!")
+word=input()
+for i in word:
+  print(i)
